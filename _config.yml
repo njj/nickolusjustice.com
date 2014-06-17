@@ -4,6 +4,7 @@ description: "Rants, mostly about software"
 author: "Nickolus Justice"
 
 url: "http://www.nickolusjustice.com"
+baseUrl: "http://www.nickolusjustice.com"
 
 markdown: rdiscount
 permalink: :year/:month/:title.html
