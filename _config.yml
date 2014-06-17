@@ -4,12 +4,7 @@ description: "Rants, mostly about software"
 author: "Nickolus Justice"
 
 url: "http://www.nickolusjustice.com"
-baseurl: ""
 
 markdown: rdiscount
 permalink: :year/:month/:title.html
 pygments: true
-
-# Google Analytics
-#ga_domain: m3xm.github.io
-#ga_tracking_id: UA-47727049-1
