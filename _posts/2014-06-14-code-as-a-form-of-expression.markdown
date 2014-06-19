@@ -24,6 +24,6 @@ foo ?
 
 Unfortunately, this colleague and I do not see eye-to-eye when it comes to his topic.  His perspective is that code (or programming) is a tool and he approaches his work in that manner.  The example given was, *“If I am hired to chop down a forest, I bring an axe.”*
 
-While I do respect his opinion, I also feel this is unfortunate and jaded away to approach your work.  I can only hope that every bit of code that I write is enjoyable and does not become something I have to do just to get a paycheck.  I feel foruntate that my line of work is also my passion and that I don't feel as if I'm stuck in a dead end job staring at the clock for hours.
+While I do respect his opinion, I also feel this is unfortunate and jaded away to approach your work.  I can only hope that every bit of code that I write is enjoyable and does not become something I have to do just to get a paycheck.  I feel forunate that my line of work is also my passion and that I don't feel as if I'm stuck in a dead end job staring at the clock for hours.
 
 Albeit, he has been developing software for longer than I have, so maybe this perspective is something that comes with time.  But from my point of view, I hope to never feel that way.
