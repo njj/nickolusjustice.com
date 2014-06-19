@@ -9,3 +9,7 @@ baseurl: ""
 markdown: rdiscount
 permalink: :year/:month/:title.html
 pygments: true
+
+# Google Analytics
+ga_domain: nickolusjustice.com
+ga_tracking_id: UA-37069759-1
